@@ -1,0 +1,17 @@
+package termometro_digital;
+
+public class main {
+
+    public static void main(String[] args) {
+
+        termometro t = new termometro();
+
+                System.out.println("Temperatura inicial: " + t.getTemperatura() + "°C");
+
+                t.setTemperatura(30.0);
+        System.out.println("Nova temperatura: " + t.getTemperatura() + "°C");
+
+                t.setTemperatura(60.0);
+        System.out.println("Após tentativa inválida: " + t.getTemperatura() + "°C");
+    }
+}

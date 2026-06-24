@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/escola/termometro_digital/.metadata/.plugins/org.eclipse.jdt.core
+3669402473.index
+521476149.index
+1865797976.index
